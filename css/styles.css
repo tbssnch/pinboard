@@ -4,11 +4,11 @@ body {
 }
 
 .bill {
-  position: absolute;
-  top: 250px;
+  position: relative;
+  top: 230px;
   left: 460px;
   width: 350px;
-  height: 350px;
+  height: 420px;
 }
 
 .frame {
